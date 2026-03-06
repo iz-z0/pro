@@ -1,36 +1,173 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Hi 👋, I'm Zyvox</h1>
+<h3 align="center">Frontend Developer | Bot Developer | Game & Web Builder</h3>
 
-## Getting Started
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Frontend+Developer;Discord+Bot+Developer;Web+%26+App+Programmer;Future+Full+Stack+Developer;I+Love+Programming+💻" />
+</p>
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# 🧑‍💻 About Me
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 👤 Name: **Zyvox**
+- 🎂 Age: **19**
+- 🌍 Country: **Morocco**
+- 🎓 Student & Frontend Developer
+- 💻 I build **Websites, Apps, Discord Bots and Games**
+- ❤️ I love programming and technology
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# 🚀 What I Build
 
-## Learn More
+- 🌐 Websites
+- ⚡ Web Applications
+- 🤖 Discord Bots
+- 🎮 Small Games
+- 📱 Applications
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# 🛠️ Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<p align="center">
 
-## Deploy on Vercel
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img src="https://skillicons.dev/icons?i=ts" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=php" height="50"/>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+<img src="https://skillicons.dev/icons?i=go" height="50"/>
+<img src="https://skillicons.dev/icons?i=rust" height="50"/>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+
+# ⚙️ Tools I Use
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+<img src="https://skillicons.dev/icons?i=linux" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=figma" height="50"/>
+<img src="https://skillicons.dev/icons?i=postman" height="50"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iz-z0&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iz-z0&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iz-z0&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iz-z0&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 Discord Bot
+Advanced Discord bot with moderation, music and AI commands.
+
+### 🌐 Portfolio Website
+My personal developer portfolio.
+
+### 🎮 Small Games
+Simple games built using JavaScript and game engines.
+
+### ⚡ Web Apps
+Interactive web applications.
+
+*(You can add project links later)*
+
+---
+
+# 🎯 Goals
+
+- 🌍 Contribute to **Open Source**
+- 🚀 Build **SaaS Products**
+- 🧠 Become a **Full Stack Developer**
+- 💻 Improve my programming skills
+
+---
+
+# ⚡ Fun Fact
+
+> I don't just like programming...  
+> **I love it.** ❤️
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iz-z0&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=iz-z0&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<p align="center">
+⭐ From <b>Zyvox</b> | Future Full Stack Developer
+</p>
